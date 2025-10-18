@@ -3,7 +3,9 @@
 
 ## Integrantes
 
-
+Giselle Puentes Piñeros 31594  
+Juan Pablo Ramirez 103681  
+Nicolas Quiroga 109393  
 
 ## Arquitectura propuesta
 
