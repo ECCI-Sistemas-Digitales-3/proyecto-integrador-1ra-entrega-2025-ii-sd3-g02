@@ -18,6 +18,7 @@ Moto Agitador
 
 ## Avances
 
-![Flujo del Proyecto 1](NoderedPoryecto1entrega.jpg)
 ![Flujo del Proyecto 1](nodered.jpg)
+![Flujo del Proyecto 1](NoderedPoryecto1entrega.jpg)
+
 <!-- Subir en una carpeta src los códigos que tienen hasta el momento y esta sección agregar lo que consideren necesario referente a sus avances. -->
