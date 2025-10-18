@@ -14,6 +14,8 @@ Nicolas Quiroga 109393
 ## Periférico a trabajar
 Moto Agitador
 
+![Periféricos del sistema](Perifericos.jpg)
+
 ## Avances
 
 ![Flujo del Proyecto 1](NoderedPoryecto1entrega.jpg)
