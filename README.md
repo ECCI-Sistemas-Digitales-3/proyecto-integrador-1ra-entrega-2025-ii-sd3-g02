@@ -9,7 +9,7 @@ Nicolas Quiroga 109393
 
 ## Arquitectura propuesta
 
-
+![Periféricos del sistema](Diagrama.jpg)
 
 ## Periférico a trabajar
 Moto Agitador
